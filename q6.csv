@@ -1,0 +1,19 @@
+product_category,product_name,revenue,margin_pct,rnk
+Beauty,Hair Dryer,1108720.3,34.58,1
+Beauty,Perfume,1086567.1,56.89,2
+Beauty,Face Serum,607033.64,62.57,3
+Books,Exam Guide,245660.78,33.78,1
+Books,Self-Help Book,176541.08,35.8,2
+Books,Fiction Novel,158410.19,38.06,3
+Electronics,Smart Watch,6746177.53,19.73,1
+Electronics,Wireless Earbuds,3267668.29,22.67,2
+Electronics,Bluetooth Speaker,2607926.37,24.72,3
+Fashion,Jacket,3121547.36,44.7,1
+Fashion,Sneakers,2394539.33,41.16,2
+Fashion,Women's Kurti,988351.41,48.45,3
+Home & Kitchen,Cookware Set,2878922.7,33.58,1
+Home & Kitchen,Mixer Grinder,2865482.9,24.72,2
+Home & Kitchen,Bedsheet Set,1161770.34,46.46,3
+Sports,Dumbbell Set,2075417.3,30.47,1
+Sports,Yoga Mat,626842.51,41.2,2
+Sports,Football,591262.82,37.51,3
